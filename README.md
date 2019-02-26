@@ -1,5 +1,5 @@
-# Adserver Cateogry Translatin File
+# Adserver Category Translation File
 
-This file is the default adserver category translation file to be used Prebid.js while doing adpod header bidding. It converts IAB sub category to adserver category.
+This repository will manage the default category translation file for each Ad server supported by Prebid.js while doing adpod header bidding. It converts IAB sub category to Ad server category.
 
-This json is accessible from jsdelivr as  https://cdn.jsdelivr.net/gh/prebid/category-mapping-file@1/mappings.json
+This json is accessible from jsdelivr as  https://cdn.jsdelivr.net/gh/prebid/category-mapping-file@1/freewheel-mapping.json
